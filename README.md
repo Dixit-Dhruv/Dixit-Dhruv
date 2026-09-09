@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dixit-Dhruv/Dixit-Dhruv/main/assets/dhruv-ascii-v3.svg" width="70%" alt="Animated ASCII portrait" />
+<img src="https://raw.githubusercontent.com/Dixit-Dhruv/Dixit-Dhruv/main/assets/dhruv-ascii-v3.svg" width="50%" alt="Animated ASCII portrait" />
 
 </div>
 
