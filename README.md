@@ -1,19 +1,96 @@
-# 💫 About Me:
-🎓 B.Tech Information Technology student with a strong interest in Backend Development, Artificial Intelligence, and Cloud Computing.<br>💻 Passionate about designing scalable, efficient, and secure backend systems using modern technologies.<br>🚀 Continuously expanding my expertise in system design, distributed systems, and cloud-native application development.<br>🌱 Currently focused on mastering FastAPI, PostgreSQL, SQLAlchemy, Docker, and Kubernetes.<br>🤝 Open to collaborating on open-source projects and innovative software solutions.
+<div align="center">
 
+# `dhruv@github:~$ whoami`
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dixit-dhruv/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dhruvdixitddd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvdixitddd@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Dhruv+Dixit;Backend+%7C+AI+%7C+Cloud+Developer;Building+scalable+systems+one+commit+at+a+time;FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+Kubernetes" alt="Typing animation" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dixit-Dhruv&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Dixit-Dhruv&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dixit-Dhruv&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
+## `> about_me`
+
+```text
+🎓 B.Tech Information Technology student
+💻 Backend Development • Artificial Intelligence • Cloud Computing
+🚀 Interested in scalable, efficient and secure systems
+🌱 Currently sharpening FastAPI, PostgreSQL, SQLAlchemy, Docker & Kubernetes
+🤝 Open to open-source collaboration and interesting software projects
+```
+
+## `> current_focus`
+
+- 🧩 Backend engineering and API design
+- 🏗️ System design and distributed systems
+- ☁️ Cloud-native development
+- 🤖 Practical AI/ML applications
+- 🐳 Containerization and deployment
+
+---
+
+## `> featured_projects`
+
+| Project | Focus |
+|---|---|
+| 🔗 **yield-control-center** | Full-stack web application |
+| 🌿 **botanical-ledger-link** | Full-stack application |
+| 🤖 **ai-qa-bot** | AI / question-answering |
+| 👕 **WardrobeAI** | AI-powered application |
+| 🌍 **languageTranslator** | Language / translation application |
+| ✋ **Hand-gesture-Recognition** | Computer vision / ML |
+
+---
+
+## `> tech_stack`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,react,fastapi,flask,spring,postgres,mysql,mongodb,sqlite,aws,gcp,docker,kubernetes,git,github,postman,tensorflow,pytorch,opencv" />
+</p>
+
+---
+
+## `> github_activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dixit-Dhruv&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dixit-Dhruv&layout=compact&hide_border=true&theme=transparent" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Dixit-Dhruv&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## `> contribution_matrix`
+
+<div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/Dixit-Dhruv/Dixit-Dhruv/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dixit-dhruv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@dhruvdixitddd"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:dhruvdixitddd@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+$ echo "keep building."
+keep building.
+```
+
+</div>
