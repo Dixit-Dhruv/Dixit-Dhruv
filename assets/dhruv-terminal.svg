@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="360" viewBox="0 0 650 360">
+<rect width="100%" height="100%" rx="14" fill="#0d1117"/><rect x="1" y="1" width="648" height="358" rx="14" fill="none" stroke="#30363d"/>
+<circle cx="20" cy="20" r="5" fill="#ff5f56"/><circle cx="38" cy="20" r="5" fill="#ffbd2e"/><circle cx="56" cy="20" r="5" fill="#27c93f"/>
+<text x="75" y="24" fill="#8b949e" font-family="monospace" font-size="12">dhruv@github:~$ neofetch</text>
+<text x="24" y="62" fill="#58a6ff" font-family="monospace" font-size="22" font-weight="bold">DHRUV DIXIT</text>
+<text x="24" y="84" fill="#8b949e" font-family="monospace" font-size="11">────────────────────────────────────────────</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.4s" fill="freeze"/><text x="24" y="112" fill="#58a6ff" font-family="monospace" font-size="12">Name:</text><text x="145" y="112" fill="#c9d1d9" font-family="monospace" font-size="12">Dhruv Dixit</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.58s" fill="freeze"/><text x="24" y="141" fill="#58a6ff" font-family="monospace" font-size="12">Role:</text><text x="145" y="141" fill="#c9d1d9" font-family="monospace" font-size="12">Backend / AI / Cloud Developer</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.76s" fill="freeze"/><text x="24" y="170" fill="#58a6ff" font-family="monospace" font-size="12">Focus:</text><text x="145" y="170" fill="#c9d1d9" font-family="monospace" font-size="12">Scalable backend systems</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.94s" fill="freeze"/><text x="24" y="199" fill="#58a6ff" font-family="monospace" font-size="12">Now:</text><text x="145" y="199" fill="#c9d1d9" font-family="monospace" font-size="12">FastAPI + PostgreSQL</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.12s" fill="freeze"/><text x="24" y="228" fill="#58a6ff" font-family="monospace" font-size="12">Cloud:</text><text x="145" y="228" fill="#c9d1d9" font-family="monospace" font-size="12">Docker + Kubernetes + AWS</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.30s" fill="freeze"/><text x="24" y="257" fill="#58a6ff" font-family="monospace" font-size="12">AI:</text><text x="145" y="257" fill="#c9d1d9" font-family="monospace" font-size="12">ML + Computer Vision</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.48s" fill="freeze"/><text x="24" y="286" fill="#58a6ff" font-family="monospace" font-size="12">Build:</text><text x="145" y="286" fill="#c9d1d9" font-family="monospace" font-size="12">APIs • Distributed Systems</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.66s" fill="freeze"/><text x="24" y="315" fill="#58a6ff" font-family="monospace" font-size="12">Open to:</text><text x="145" y="315" fill="#c9d1d9" font-family="monospace" font-size="12">Open-source collaboration</text></g>
+<text x="24" y="344" fill="#8b949e" font-family="monospace" font-size="11">$ echo "keep building."</text>
+</svg>
