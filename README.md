@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dixit-Dhruv&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dixit-Dhruv&layout=compact&hide_border=true&theme=transparent" height="170" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dixit-Dhruv&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dixit-Dhruv&layout=compact&hide_border=true&theme=transparent" height="170" /> -->
 
 <br/>
 
