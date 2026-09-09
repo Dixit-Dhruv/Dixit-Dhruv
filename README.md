@@ -8,12 +8,9 @@
 
 ---
 
-## `> terminal_identity`
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dixit-Dhruv/Dixit-Dhruv/main/assets/dhruv-ascii-v3.svg" width="48%" alt="Animated ASCII portrait" />
-<img src="https://raw.githubusercontent.com/Dixit-Dhruv/Dixit-Dhruv/main/assets/dhruv-terminal-v2.svg" width="48%" alt="Animated developer terminal" />
+<img src="https://raw.githubusercontent.com/Dixit-Dhruv/Dixit-Dhruv/main/assets/dhruv-ascii-v3.svg" width="70%" alt="Animated ASCII portrait" />
 
 </div>
 
