@@ -66,7 +66,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Dixit-Dhruv&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com/?user=Dixit-Dhruv&theme=transparent&hide_border=true" />
 
 </div>
 
